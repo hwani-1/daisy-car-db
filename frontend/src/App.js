@@ -10,7 +10,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <h1>Car Cosmetics Database</h1>
+        <h1>레이시티 데이지 차량 외형 DB</h1>
       </header>
       <main>
         {selectedCar ? (
