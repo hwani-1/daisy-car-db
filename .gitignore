@@ -1,0 +1,12 @@
+# Ignore sensitive credential files
+.env
+gcp-credentials.json
+frontend/.env
+
+# Ignore Python's virtual environment folder
+venv/
+__pycache__/
+
+# Ignore frontend dependency and build folders
+frontend/node_modules
+frontend/build
